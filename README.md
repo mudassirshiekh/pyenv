@@ -20,6 +20,7 @@ This project was forked from [rbenv](https://github.com/rbenv/rbenv) and
 
 
 ### In contrast with pythonbrew and pythonz, pyenv _does not..._
+## By Mudassir Alam
 
 * **Depend on Python itself.** pyenv was made from pure shell scripts.
     There is no bootstrap problem of Python.
